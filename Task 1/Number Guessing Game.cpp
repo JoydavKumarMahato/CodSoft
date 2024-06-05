@@ -9,7 +9,7 @@ int main()
 	 int number = rand()%100+1;                   // IT GIVE RANDOM NUMBER BETWEEN 1-100
 	 int N=0;
 	 string name;
-	 cout<<"Enter Your Name:";
+	 cout<<"Enter Your First Name:";
 	 cin>>name;
 	 cout<<"You Successfully Entered In Number Guessing Game\n\n";
 	 do
