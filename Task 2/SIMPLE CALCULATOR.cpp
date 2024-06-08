@@ -32,7 +32,7 @@ int main()
     else if(opr=='/')
     division(N1,N2);        
     else{  
-        cout<<"\nYou Entered The Wrong Oprator. Please Enter The Right Operator.\n";
+        cout<<"\nYou Entered The Wrong Oprator.. Please Enter The Right Operator.\n";
         goto top;
     }
     return 0;
